@@ -38,3 +38,6 @@ This transaction sample does not include inventory, cost, profit margin, marketi
 
 ## Repository structure
 `data/` stores the downloaded CSV locally (ignored by Git); `outputs/` stores generated analysis outputs; `eda_analysis.py` contains the reproducible analysis.
+
+# Apparel and Textiles EDA
+

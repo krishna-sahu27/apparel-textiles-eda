@@ -1,0 +1,13 @@
+article_id,prod_name,product_type_name,product_group_name,colour_group_name
+100001,Basic cotton tee,T-shirt,T-shirts,Black
+100002,Printed top,Top,Garment Upper body,White
+100003,Slim denim jeans,Trousers,Trousers,Blue
+100004,Floral dress,Dress,Dresses,Red
+100005,Light padded jacket,Jacket,Garment Upper body,Beige
+100006,Running shoes,Sneakers,Shoes,White
+100007,Leather handbag,Bag,Bags,Black
+100008,Cotton socks,Socks,Socks,White
+100009,Knitted blouse,Blouse,Garment Upper body,Green
+100010,Classic coat,Coat,Garment Upper body,Navy
+100011,Mini skirt,Skirt,Skirts,Black
+100012,Casual hoodie,Sweatshirt,Garment Upper body,Grey

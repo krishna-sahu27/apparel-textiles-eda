@@ -1,0 +1,16 @@
+Customer Reference ID,Item Purchased,Purchase Amount (USD),Date Purchase,Review Rating,Payment Method
+C001,T-shirt,25.50,2025-01-05,4,Credit Card
+C002,Jeans,49.99,2025-01-06,5,Debit Card
+C003,Dress,65.00,2025-01-08,4,PayPal
+C004,Jacket,89.00,2025-01-10,3,Cash
+C005,Sneakers,72.00,2025-01-12,5,Credit Card
+C006,Shirt,35.00,2025-01-14,4,credit card
+C007,Skirt,39.50,2025-01-15,4,Debit Card
+C008,Handbag,55.00,2025-01-18,5,PayPal
+C009,Hoodie,42.00,2025-01-20,3,Cash
+C010,Socks,8.50,2025-01-22,4,Debit Card
+C011,Coat,110.00,2025-01-25,5,Credit Card
+C012,Blouse,32.00,2025-01-27,4,PayPal
+C013,Shorts,22.00,2025-02-01,3,Cash
+C014,Boots,95.00,2025-02-04,5,Credit Card
+C015,Unknown seasonal item,18.00,2025-02-06,4,Debit Card
